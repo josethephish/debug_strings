@@ -1,0 +1,2 @@
+gcc debug_strings.c -o debug_strings
+./debug_strings
